@@ -91,6 +91,8 @@ Then follow the below steps for Task 1 and Task 2.
 ### 4. Testing it out
 Hopefully everything is set up properly at this point. Check the `C://SSH` folder and make sure the two files are in there. 
 
+**First, restart your computer and log in**
+
 **Be Warned! The next step can lead to you being locked out for a few minutes if it doesn't work. Don't panic if it does, just be patient and it should unlock or let you enter your password eventually.**
 
 Go ahead and right click the first task in Task Scheduler, and click `Run`. 
@@ -103,11 +105,13 @@ Go ahead and right click the first task in Task Scheduler, and click `Run`.
 </details>
 
 With some luck, your PC should lock, then flicker and take you straight back to your desktop.
-* When you log back in (either automatically or manually if it failed), you **shouldn't** see a Powershell window and an error message saying RDP was disconnected. If you don't see these, it means everything is technically working. 
-* If you *do* see a Powershell Window/error message, it means the second task didn't work properly. Have a look in the troubleshooting section. 
 
-If it worked perfectly, you can set up the phone shortcuts now. 
-If it did something, but didn't take you back to the desktop as it should have, restart your computer and test it again
+* If it worked perfectly, you can set up the phone shortcuts now. 
+* If it did something, but didn't take you back to the desktop as it should have:
+  * If you logged in and saw a command prompt window or an error messagebox, it means the second task didn't work properly. Check the troubleshooting section below
+  * If you *don't* see a command prompt window/error message box, it means everything *technically* worked fine. Restart your computer and try again. 
+
+
 
 # Setting up iPhone Shortcuts
 
@@ -121,3 +125,4 @@ This is the easy part: install these two shortcuts from your phone (scan the QR 
 
 **If you used the Helper program, it will show you the QR codes on the end screen as well as the correct IP address + User/Password information.**
 ![Image](https://imgur.com/Ear2tuT.png)
+
