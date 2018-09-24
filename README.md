@@ -16,7 +16,7 @@ If you need to set up PSExec automatically, you can run the `InstallPSExec` shor
 ____
 
 ### [Unlock Computer](https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e)
-This is the most setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.
+This is the most complex setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.
 
 ![Image](UnlockPC/QR/QR_SSHUnlock.png)
 
@@ -29,3 +29,10 @@ Locks the computer. Much simpler than unlocking it.
 
 ![Image](QR/QR_LockPC.png)
 
+____
+
+
+### [MyTube Controller]() and [Send YouTube videos to MyTube]
+
+
+![Image]()
