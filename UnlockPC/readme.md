@@ -117,10 +117,10 @@ With some luck, your PC should lock, then flicker and take you straight back to 
 
 This is the easy part: install these two shortcuts from your phone (scan the QR codes for easy install). Set up the SSH Base Module with your computer's connection info, then run the `Unlock PC` shortcut. 
 
-|SSH Base Module|SSH Unlock PC|
+|[SSH Base Module](https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b)|[SSH Unlock PC](https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e)|
 | ------------- | ------------- |
 |![Image](QR/QR_SSHMain.png)|![Image](QR/QR_SSHUnlock.png)|
-|https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b|https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e|
+
 
 
 **If you used the Helper program, it will show you the QR codes on the end screen as well as the correct IP address + User/Password information.**
