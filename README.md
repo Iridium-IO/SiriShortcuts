@@ -17,6 +17,7 @@ ____
 
 ### [Unlock Computer](https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e)
 This is the most setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.
+
 ![Image](UnlockPC/QR/QR_SSHUnlock.png)
 
 **Additional Requirements:**
@@ -25,5 +26,6 @@ ____
 
 ### [Lock Computer](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563)
 Locks the computer. Much simpler than unlocking it.
+
 ![Image](QR/QR_LockPC.png)
 
