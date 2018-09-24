@@ -27,14 +27,15 @@ Each shortcut is tagged based on difficulty.
 
 |QR Code | Details|
 | ---- |---- |
-|![Image](UnlockPC/QR/QR_SSHUnlock.png)|This is the most complex setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.|
+|![Image](UnlockPC/QR/QR_SSHUnlock.png)|This is the most complex setup by far, since it requires extensive preparation on the PC.</br></br>See instructions [here](UnlockPC/readme.md).</br></br>There's also a helper program to get your computer set up easily.|
 
 ____
 
 ### [Lock Computer](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
-Locks the computer. Much simpler than unlocking it.
 
-![Image](QR/QR_LockPC.png)
+|QR Code | Details|
+| ---- |---- |
+|![Image](QR/QR_LockPC.png)|Locks the computer. Much simpler than unlocking it.|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching youtube. 
@@ -47,5 +48,5 @@ You can easily edit the target app by changing the `AppName` value at the top of
 ### [Open in MyTube](https://www.icloud.com/shortcuts/2b15ba96a0a1485ea60d2914b323f0b8) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
 |QR Code | Details|
 | ---- |---- |
-|![Image](QR/QR_MyTubeSend.png)|Sharesheet to send YouTube links to the PC</br>to be opened in MyTube|
+|![Image](QR/QR_MyTubeSend.png)|Sharesheet to send YouTube links to the PC to be opened in MyTube|
 
