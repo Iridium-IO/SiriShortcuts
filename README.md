@@ -24,13 +24,11 @@ Each shortcut is tagged based on difficulty.
 ## PC Controls
 
 ### [Unlock Computer](https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e) ![Advanced](https://img.shields.io/badge/-Advanced-red.svg)
-This is the most complex setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.
 
-![Image](UnlockPC/QR/QR_SSHUnlock.png)
+|QR Code | Details|
+| ---- |---- |
+|![Image](UnlockPC/QR/QR_SSHUnlock.png)|This is the most complex setup by far, since it requires extensive preparation on the PC. See instructions [here](UnlockPC/readme.md).There's also a helper program to get your computer set up easily.|
 
-**Additional Requirements:**
-* Windows Professional Edition or better
-* Helper scripts and tasks on PC. See [here](UnlockPC/readme.md)
 ____
 
 ### [Lock Computer](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
