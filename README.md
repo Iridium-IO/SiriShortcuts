@@ -38,8 +38,8 @@ ____
 |![Image](QR/QR_LockPC.png)|Locks the computer. Much simpler than unlocking it.|
 
 ## MyTube
-[MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching youtube. 
-You can easily edit the target app by changing the `AppName` value at the top of these shortcuts to control other apps. 
+[MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
+You can easily edit the target app by changing the `AppName` value at the top of these shortcuts if you use another app. 
 ### [MyTube Controller](https://www.icloud.com/shortcuts/9837aec385e443f2a0881791bbbb94e2) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
 |QR Code | Details|
 | ---- |---- |
