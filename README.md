@@ -1,4 +1,4 @@
-# Siri-Shortcuts
+# Siri Shortcuts
 Scripts to control Windows PC over SSH
 
 ### Prerequisites
@@ -32,6 +32,8 @@ Each shortcut is tagged based on difficulty.
 ____
 
 ### [Lock Computer](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
+
+
 
 |QR Code | Details|
 | ---- |---- |
