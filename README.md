@@ -29,15 +29,18 @@ Each shortcut is tagged based on difficulty.
 | ---- |---- |
 |![Image](UnlockPC/QR/QR_SSHUnlock.png)|This is the most complex setup by far, since it requires extensive preparation on the PC.</br></br>See instructions [here](UnlockPC/readme.md).</br></br>There's also a helper program to get your computer set up easily.|
 
-____
-
 ### [Lock Computer](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563) ![Easy](https://img.shields.io/badge/-Easy-brightgreen.svg)
-
-
 
 |QR Code | Details|
 | ---- |---- |
 |![Image](QR/QR_LockPC.png)|Locks the computer. Much simpler than unlocking it.|
+
+
+### [Send Link to PC](https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue.svg) 
+
+|QR Code | Details|
+| ---- |---- |
+|![Image](QR/QR_LockPC.png)|Sends the URL|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
