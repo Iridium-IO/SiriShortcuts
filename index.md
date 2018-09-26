@@ -50,7 +50,7 @@ Each shortcut is tagged based on difficulty.
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Unlock Computer]|This is the most complex setup by far, since it requires extensive preparation on the PC.</br></br>See instructions [here](UnlockPC/readme.md).</br></br>There's also a helper program to get your computer set up easily.|
+|![QR Unlock Computer]|<p>This is the most complex setup by far, since it requires extensive preparation on the PC.</br></br>See instructions [here](UnlockPC/readme.md).</br></br>There's also a helper program to get your computer set up easily.</p>|
 
 ### [Lock Computer] ![Easy]
 
