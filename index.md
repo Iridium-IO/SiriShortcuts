@@ -31,7 +31,7 @@ Scripts to control Windows PC over SSH
 
 **The following shortcuts are needed on your phone. All of the other shortcuts run off these**
 
-[SSH Base]|[PSExec Base]| [Install PSExec]|
+|[SSH Base]|[PSExec Base]| [Install PSExec]|
 | ------------- | ------------- | ------------- |
 |![QR SSH Base]|![QR PSExec Base]| ![QR Install PSExec]|
 
