@@ -65,7 +65,7 @@ Each shortcut is tagged based on difficulty.
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send Link to PC]|Sends the website to your PC as a notification.</br>Two modes are available:</br>  • **Win10** \[Default\] - Sends the link to your PC as a notification that can be clicked to open the website. Requires the powershell module **BurntToast** to be installed, which can be done by opening Powershell and typing `Install-Module -Name BurntToast`. Windows 10 Only</br>  • **Basic** - Opens the website directly on the computer without a notification|
+|![QR Send Link to PC]|Sends the website to your PC.</br>Two modes are available:</br>  • **Win10** \[Default\] - Sends the link to your PC as a notification.</br> Requires the powershell module **BurntToast** to be installed</br> which can be done by opening Powershell and typing</br> `Install-Module -Name BurntToast`.</br> Windows 10 Only</br>  • **Basic** - Opens the website directly on the computer without a notification|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
