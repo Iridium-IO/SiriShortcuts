@@ -3,7 +3,7 @@
 [Install PSExec]: https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
 [Unlock Computer]: https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [Lock Computer]: https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[Send Link to PC]: https://www.icloud.com/shortcuts/f34d5c2fbdc14c6b8b121d3250d20f5f
+[Send Link to PC]: https://www.icloud.com/shortcuts/0e1aa4cf9d1349aead5ae62c5559e8c5
 [MyTube Controller]: https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -12,7 +12,7 @@
 [QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
 [QR Unlock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [QR Lock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/f34d5c2fbdc14c6b8b121d3250d20f5f
+[QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/0e1aa4cf9d1349aead5ae62c5559e8c5
 [QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -65,7 +65,7 @@ Each shortcut is tagged based on difficulty.
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send Link to PC]|Sends the URL|
+|![QR Send Link to PC]|Sends the website to your PC as a notification.</br>Two modes are available:</br>  • **Win10** \[Default\] - Sends the link to your PC as a notification that can be clicked to open the website. Requires the powershell module **BurntToast** to be installed, which can be done by opening Powershell and typing `Install-Module -Name BurntToast`. Windows 10 Only</br>  • **Basic** - Opens the website directly on the computer without a notification|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
