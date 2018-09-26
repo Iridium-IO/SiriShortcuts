@@ -1,20 +1,21 @@
 [SSH Base]: https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b
-[PSExec Base]: https://www.icloud.com/shortcuts/1ed83e774dcc478989f85c5f6431dcf2
-[Install PSExec]: https://www.icloud.com/shortcuts/9b29eb30534f4874ba53cd46a88d6eff
+[PSExec Base]: https://www.icloud.com/shortcuts/51913fa89906457d8aaa9b11a2b06b10
+[Install PSExec]: https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
 [Unlock Computer]: https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [Lock Computer]: https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[Send Link to PC]: https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[MyTube Controller]: https://www.icloud.com/shortcuts/9837aec385e443f2a0881791bbbb94e2
-[Open in MyTube]: https://www.icloud.com/shortcuts/2b15ba96a0a1485ea60d2914b323f0b8
+[Send Link to PC]: https://www.icloud.com/shortcuts/f34d5c2fbdc14c6b8b121d3250d20f5f
+[MyTube Controller]: https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
+[Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
 [QR SSH Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b
-[QR PSExec Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/1ed83e774dcc478989f85c5f6431dcf2
-[QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9b29eb30534f4874ba53cd46a88d6eff
+[QR PSExec Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/51913fa89906457d8aaa9b11a2b06b10
+[QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
 [QR Unlock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [QR Lock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
-[QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9837aec385e443f2a0881791bbbb94e2
-[QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2b15ba96a0a1485ea60d2914b323f0b8
+[QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/f34d5c2fbdc14c6b8b121d3250d20f5f
+[QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
+[QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
+
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen.svg
 [Intermediate]: https://img.shields.io/badge/-Intermediate-blue.svg
