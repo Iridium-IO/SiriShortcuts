@@ -4,6 +4,8 @@
 [Unlock Computer]: https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [Lock Computer]: https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
 [Send Link to PC]: https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
+[Send Text to PC]: https://www.icloud.com/shortcuts/fef2b0a756cb44fb81ba9f1cf5e25a60
+[Send File to PC]: https://www.icloud.com/shortcuts/302c3a93522f4f439d39f7de5c404285
 [MyTube Controller]: https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -13,6 +15,8 @@
 [QR Unlock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [QR Lock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
 [QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
+[QR Send Text to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/fef2b0a756cb44fb81ba9f1cf5e25a60
+[QR Send File to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/302c3a93522f4f439d39f7de5c404285
 [QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -59,11 +63,34 @@ Each shortcut is tagged based on difficulty.
 |![QR Lock Computer]|Locks the computer. Much simpler than unlocking it.|
 
 
+## Send to PC
+
+Each of these comes in two modes:
+* **Win10 (Default)** - Sends the item with an interactive notification that shows in the Action Centre.
+  * Requires `Burnt Toast` which can be installed by opening Powershell and typing `Install-Module -Name BurntToast`
+* **Basic** - Sends the item directly to the PC without notification. 
+Modes can be switched within the shortcut
+
+
 ### [Send Link to PC] ![Intermediate]
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send Link to PC]|Sends the website to your PC.</br></br>**Two modes are available:**</br></br>  • **Win10** \[Default\] - Sends the link to your PC as a notification.</br> Requires **BurntToast** to be installed</br> which can be done by opening Powershell and typing</br> `Install-Module -Name BurntToast`.</br></br>  • **Basic** - Opens the website directly on the computer|
+|![QR Send Link to PC]|• **Win10** \[Default\] - Sends the link to your PC as a notification that can be clicked to open.</br> </br>  • **Basic** - Opens the website directly on the computer|
+
+
+### [Send File to PC] ![Intermediate]
+
+|QR Code | Details|
+| ---- |---- |
+|![QR Send File to PC]|• **Win10** \[Default\] - Sends the file to your PC with a notification that adapts to the filetype (e.g. Images will show in the notification, documents will have a file icon, etc)</br> </br>  • **Basic** - Sends the file to the PC and shows a messagebox asking if you want to open it.|
+
+
+### [Send Text to PC] ![Intermediate]
+
+|QR Code | Details|
+| ---- |---- |
+|![QR Send Text to PC]|• **Win10** \[Default\] - Sends the text to your PC as a notification and also to the clipboard. Links sent in this way can be clicked to open them.</br> </br>  • **Basic** - Sends the text to the PC clipboard.|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
