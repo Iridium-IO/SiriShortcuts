@@ -66,9 +66,11 @@ Each shortcut is tagged based on difficulty.
 ## Send to PC
 
 Each of these comes in two modes:
+&nbsp;
 * **Win10 (Default)** - Sends the item with an interactive notification that shows in the Action Centre.
   * Requires `Burnt Toast` which can be installed by opening Powershell and typing `Install-Module -Name BurntToast`
-* **Basic** - Sends the item directly to the PC without notification. 
+* **Basic** - Sends the item directly to the PC without notification.
+&nbsp;
 Modes can be switched within the shortcut
 
 
@@ -76,21 +78,21 @@ Modes can be switched within the shortcut
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send Link to PC]|• **Win10** \[Default\] - Sends the link to your PC as a notification that can be clicked to open.</br> </br>  • **Basic** - Opens the website directly on the computer|
+|![QR Send Link to PC]|• **Win10** - Sends the link to your PC as a notification that can be clicked to open.</br> </br>  • **Basic** - Opens the website directly on the computer|
 
 
 ### [Send File to PC] ![Intermediate]
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send File to PC]|• **Win10** \[Default\] - Sends the file to your PC with a notification that adapts to the filetype (e.g. Images will show in the notification, documents will have a file icon, etc)</br> </br>  • **Basic** - Sends the file to the PC and shows a messagebox asking if you want to open it.|
+|![QR Send File to PC]|• **Win10** - Sends the file to your PC with a notification that adapts to the filetype</br> (e.g. Images will show in the notification, documents will have a file icon, etc)</br> </br>  • **Basic** - Sends the file to the PC and shows a messagebox asking if you want to open it.|
 
 
 ### [Send Text to PC] ![Intermediate]
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send Text to PC]|• **Win10** \[Default\] - Sends the text to your PC as a notification and also to the clipboard. Links sent in this way can be clicked to open them.</br> </br>  • **Basic** - Sends the text to the PC clipboard.|
+|![QR Send Text to PC]|• **Win10** - Sends the text to your PC as a notification and also to the clipboard.</br>Links sent in this way can be clicked to open them.</br> </br>  • **Basic** - Sends the text to the PC clipboard.|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
