@@ -85,7 +85,7 @@ Modes can be switched within the shortcut
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Send File to PC]|• **Win10** - Sends the file to your PC with a notification that adapts to the filetype</br> (e.g. Images will show in the notification, documents will have a file icon, etc)</br> </br>  • **Basic** - Sends the file to the PC and shows a messagebox asking if you want to open it.|
+|![QR Send File to PC]|• **Win10** - Sends the file to your PC with a notification that adapts to the filetype</br> (e.g. Images will show in the notification, documents will have a file icon, etc)</br> </br>  • **Basic** - Sends the file to the PC and shows a messagebox asking to open it.|
 
 
 ### [Send Text to PC] ![Intermediate]
