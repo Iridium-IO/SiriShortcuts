@@ -1,6 +1,6 @@
 [SSH Base]: https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b
-[PSExec Base]: https://www.icloud.com/shortcuts/51913fa89906457d8aaa9b11a2b06b10
-[Install PSExec]: https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
+[PSExec Base]: https://www.icloud.com/shortcuts/c742c4af9c034cbb9d560a209f10d2e9
+[Install PSExec]: https://www.icloud.com/shortcuts/61b403c60e904a1ab0d7f22aa8a3e03a
 [Unlock Computer]: https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [Lock Computer]: https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
 [Send Link to PC]: https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
@@ -10,8 +10,8 @@
 [Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
 [QR SSH Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b
-[QR PSExec Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/51913fa89906457d8aaa9b11a2b06b10
-[QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a46a5df780a04fb39f514a16fd355cf0
+[QR PSExec Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/c742c4af9c034cbb9d560a209f10d2e9
+[QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/61b403c60e904a1ab0d7f22aa8a3e03a
 [QR Unlock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/4da94fefa30b46aeb561a683afa3221e
 [QR Lock Computer]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2405b1deb41f4ca1ae4b54c9aab84563
 [QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
