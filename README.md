@@ -6,6 +6,7 @@
 [Send Link to PC]: https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
 [Send Text to PC]: https://www.icloud.com/shortcuts/fef2b0a756cb44fb81ba9f1cf5e25a60
 [Send File to PC]: https://www.icloud.com/shortcuts/302c3a93522f4f439d39f7de5c404285
+[Copy from PC]: https://www.icloud.com/shortcuts/12deab5330ef4604bea69b9bed413117
 [MyTube Controller]: https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -17,6 +18,7 @@
 [QR Send Link to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/a13a0a026c0c4ce3a5e12cf11d626dd9
 [QR Send Text to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/fef2b0a756cb44fb81ba9f1cf5e25a60
 [QR Send File to PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/302c3a93522f4f439d39f7de5c404285
+[QR Copy From PC]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/12deab5330ef4604bea69b9bed413117
 [QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
@@ -63,7 +65,7 @@ Each shortcut is tagged based on difficulty.
 |![QR Lock Computer]|Locks the computer. Much simpler than unlocking it.|
 
 
-## Send to PC
+## Send and Receive from PC
 
 Each of these comes in two modes:
 &nbsp;
@@ -93,6 +95,12 @@ Modes can be switched within the shortcut
 |QR Code | Details|
 | ---- |---- |
 |![QR Send Text to PC]|• **Win10** - Sends the text to your PC as a notification and also to the clipboard.</br>Links sent in this way can be clicked to open them.</br> </br>  • **Basic** - Sends the text to the PC clipboard.|
+
+### [Copy From PC] ![Easy]
+
+|QR Code | Details|
+| ---- |---- |
+|![QR Copy From PC]|• Gets text/URLs from the computer's clipboard and copies them to the device.</br>Usage:</br>  • Copy text on PC (Ctrl + C)</br>  • Run shortcut</br>  • Paste copied content directly or tap on notification to show links.|
 
 ## MyTube
 [MyTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l) is a UWP app for watching Youtube videos. 
