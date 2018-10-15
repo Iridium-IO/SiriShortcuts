@@ -44,6 +44,8 @@ Scripts to control Windows PC over SSH
 You'll find that most other shortcuts are really simple once these are installed. 
 If you need to set up PSExec automatically, you can run the `InstallPSExec` shortcut after you get `SSH Base`.
 
+**!Note:** PSExec Base and Install PSExec have been updated since the original release. If you're having issues from and older version, scan the new QR codes above and simply overwrite the existing shortcut.
+
 Each shortcut is tagged based on difficulty.
 * ![Easy]  - Requires no setup besides the base prerequisites
 * ![Intermediate] - Some additional PC setup needed. Still pretty straightforward
@@ -115,3 +117,9 @@ You can easily edit the target app by changing the `AppName` value at the top of
 | ---- |---- |
 |![QR Open in MyTube] |Sharesheet to send YouTube links to the PC to be opened in MyTube|
 
+# Troubleshooting
+
+* Nothing seems to happen when the commands are run
+  * Most likely this is due to either the SSH server not being set up properly, or powershell's execution policy not allowing remote scripts from running. 
+    * For case 1, make sure OpenSSH Server is set up properly using the tutorial posted at the top
+    * For case 2, open powershell and type `Set-ExecutionPolicy RemoteSigned` or use the updated version of PSExec Base (just scan the QR code above again and overwrite the existing one) 
