@@ -123,3 +123,5 @@ You can easily edit the target app by changing the `AppName` value at the top of
   * Most likely this is due to either the SSH server not being set up properly, or powershell's execution policy not allowing remote scripts from running. 
     * For case 1, make sure OpenSSH Server is set up properly using the tutorial posted at the top
     * For case 2, open powershell and type `Set-ExecutionPolicy RemoteSigned` or use the updated version of PSExec Base (just scan the QR code above again and overwrite the existing one) 
+  * If your device's name has an apostrophe in it (e.g. `John's Phone`) then it will break the shortcuts that send notifications to the computer via BurntToast. 
+    * To fix it, open the shortcut, scroll down to the bottom of the shortcut in the `Otherwise` block > Delete the `Device Details variable` from inside the Text section. 
