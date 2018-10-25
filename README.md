@@ -10,6 +10,8 @@
 [MyTube Controller]: https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [Open in MyTube]: https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
+[Colourize Image]: https://www.icloud.com/shortcuts/3b381c74013e4879ba1ca164bdfd732d
+
 [QR SSH Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/21d139d065b9464a8f6aa3764a02157b
 [QR PSExec Base]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/4a3408e905404ecaa1b90129b33ae29b
 [QR Install PSExec]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/d8e184f72e644a5dbafec8972735c6f2
@@ -22,14 +24,22 @@
 [QR MyTube Controller]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/2ee61c74cf1b4a7fba94917f296d5c7b
 [QR Open in MyTube]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/9237dcb2e2924b53862fbf099948b147
 
+[QR Colourize Image]: https://chart.googleapis.com/chart?cht=qr&chs=230x230&chl=https://www.icloud.com/shortcuts/3b381c74013e4879ba1ca164bdfd732d
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen.svg
 [Intermediate]: https://img.shields.io/badge/-Intermediate-blue.svg
 [Advanced]: https://img.shields.io/badge/-Advanced-red.svg
 
 # Siri Shortcuts
-Scripts to control Windows PC over SSH
+A Collection of useful Shortcuts for iOS 12
 
+**Menu**
+* [Computer Interaction Shortcuts](https://github.com/ImminentFate/SiriShortcuts#computer-interaction)
+* [Standalone Shortcuts](https://github.com/ImminentFate/SiriShortcuts#standalone-shortcuts)
+
+
+## Computer Interaction
+Shortcuts to control and interact with a Windows PC
 ### Prerequisites
 1. A Windows PC 
 2. An SSH Server [set up](https://winaero.com/blog/enable-openssh-server-windows-10/)
@@ -117,7 +127,7 @@ You can easily edit the target app by changing the `AppName` value at the top of
 | ---- |---- |
 |![QR Open in MyTube] |Sharesheet to send YouTube links to the PC to be opened in MyTube|
 
-# Troubleshooting
+### Troubleshooting
 
 * Nothing seems to happen when the commands are run
   * Most likely this is due to either the SSH server not being set up properly, or powershell's execution policy not allowing remote scripts from running. 
@@ -125,3 +135,13 @@ You can easily edit the target app by changing the `AppName` value at the top of
     * For case 2, open powershell and type `Set-ExecutionPolicy RemoteSigned` or use the updated version of PSExec Base (just scan the QR code above again and overwrite the existing one) 
   * If your device's name has an apostrophe in it (e.g. `John's Phone`) then it will break the shortcuts that send notifications to the computer via BurntToast. 
     * To fix it, open the shortcut, scroll down to the bottom of the shortcut in the `Otherwise` block > Delete the `Device Details variable` from inside the Text section. 
+
+
+## Standalone Shortcuts
+### [Colourize Image] ![Easy]
+
+|QR Code | Details|
+| ---- |---- |
+|![QR Colourize Image]|Takes a black and white image and converts it to colour using the deep learning API by Algorithmia. .</br></br>Go [here](https://algorithmia.com/algorithms/deeplearning/ColorfulImageColorization/) to sign up and get your own API key first.|
+
+
