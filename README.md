@@ -142,6 +142,6 @@ You can easily edit the target app by changing the `AppName` value at the top of
 
 |QR Code | Details|
 | ---- |---- |
-|![QR Colourize Image]|Takes a black and white image and converts it to colour using the deep learning API by Algorithmia. .</br></br>Go [here](https://algorithmia.com/algorithms/deeplearning/ColorfulImageColorization/) to sign up and get your own API key first.|
+|![QR Colourize Image]|Takes a black and white image and converts it to colour using the deep learning API by [Algorithmia](https://algorithmia.com)</br></br>Go [here](https://algorithmia.com/algorithms/deeplearning/ColorfulImageColorization/) to sign up and get your own API key first.|
 
 
