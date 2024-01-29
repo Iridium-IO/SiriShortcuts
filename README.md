@@ -28,7 +28,7 @@
 [Advanced]: https://img.shields.io/badge/-Advanced-red.svg
 
 # Siri Shortcuts
-A Collection of useful Shortcuts for iOS 15+ (last tested on iOS 16.3)
+A Collection of useful Shortcuts for iOS 15+ (last tested on iOS 17.2.1)
 
 
 ## Computer Interaction
