@@ -83,7 +83,7 @@ You can either install these manually using the `Prerequisites` links above, or 
 ### [AirDrop to PC]
 ![QR AirDrop to PC]
 
-Easily send selected files to your PC, with smart notifications that adapt to the file type—images will preview directly in the notification, documents show a file icon, links will be clickable and open in your browser (as well as being copied to your clipboard for easy pasting), and so on. Files are saved to your `Downloads` folder by default.
+Easily send selected files, text or links to your PC, with smart notifications that adapt to the file type—images will preview directly in the notification; documents show a file icon, links will be clickable and open in your browser (as well as being copied to your clipboard for easy pasting), and so on. Files are saved to your `Downloads` folder by default.
 
 >[!Note]
 >Transfer of files, images, videos and URLs are fast and do not require PSExec to work. Sending **plain text** to the clipboard however *does* require PSExec to work. 
